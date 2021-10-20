@@ -1,0 +1,42 @@
+osr/net/utils/YamlParser.java
+ osr.net.utils.YamlParser
+osr/net/utils/YamlFile.java
+ osr.net.utils.YamlFile
+osr/net/pages/Order.java
+ osr.net.pages.Order
+osr/net/test/BaseTest.java
+ osr.net.test.BaseTest
+osr/net/pages/ArtistVideoRequest.java
+ osr.net.pages.ArtistVideoRequest
+osr/net/test/Admin.java
+ osr.net.test.Admin
+osr/net/base/RunTestRules.java
+ osr.net.base.RunTestRules
+osr/net/pages/AdminDashboard.java
+ osr.net.pages.AdminDashboard
+osr/net/pages/HomePage.java
+ osr.net.pages.HomePage
+osr/net/pages/SignUpPage.java
+ osr.net.pages.SignUpPage
+osr/net/pages/CheckoutPage.java
+ osr.net.pages.CheckoutPage
+osr/net/test/UserCreation.java
+ osr.net.test.UserCreation
+osr/net/test/UserLoginAndMakeRandomSongRequest.java
+ osr.net.test.UserLoginAndMakeRandomSongRequest
+osr/net/pages/BasePage.java
+ osr.net.pages.BasePage
+osr/net/pages/LoginPage.java
+ osr.net.pages.LoginPage
+osr/net/pages/MyRequests.java
+ osr.net.pages.MyRequests
+osr/net/base/SimpleAPI.java
+ osr.net.base.SimpleAPI
+osr/net/pages/Dashboard.java
+ osr.net.pages.Dashboard
+osr/net/pages/ArtistDashboard.java
+ osr.net.pages.ArtistDashboard
+osr/net/test/ArtistCreation.java
+ osr.net.test.ArtistCreation
+osr/net/test/ArtistLogin.java
+ osr.net.test.ArtistLogin

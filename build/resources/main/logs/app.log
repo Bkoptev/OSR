@@ -1,0 +1,9 @@
+2021-55-13 17:55:33.627 [main] INFO   - randomly generated email - Bogdan.Koptev+9728@jumar-technology.com
+2021-55-13 17:55:33.708 [main] INFO   - randomly generated password - Test!7309
+2021-55-13 17:55:33.881 [main] INFO   - randomly generated band name - BogdanBand0035
+2021-55-13 17:55:46.255 [main] ERROR  - Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on WINDOWS (b315731f103132460cb074f4d8750ebd)] -> xpath: //div[@role='listbox']//span[1]] (tried for 5 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'BKOPTIEV-N', ip: '192.168.0.101', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_282'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\BOHDAN~1.KOP\AppDa...}, goog:chromeOptions: {debuggerAddress: localhost:60882}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b315731f103132460cb074f4d8750ebd

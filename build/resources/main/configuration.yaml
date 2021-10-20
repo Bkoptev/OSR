@@ -1,0 +1,8 @@
+# Data for login
+url: https://osr-dev-webapi.azurewebsites.net/
+adminUrl: https://osr-dev-webapi.azurewebsites.net/admin
+userLogin: Bogdan.Koptev@jumar-technology.com
+userPassword: Test1234%
+artistLogin: Bogdan.Koptev+5@jumar-technology.com
+artistPassword: Test1234%
+
